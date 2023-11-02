@@ -1,0 +1,14 @@
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\bin\Debug\net6.0\1.exe
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\bin\Debug\net6.0\1.deps.json
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\bin\Debug\net6.0\1.runtimeconfig.json
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\bin\Debug\net6.0\1.dll
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\bin\Debug\net6.0\1.pdb
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\1.dll
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\refint\1.dll
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\1.pdb
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\1\1\obj\Debug\net6.0\ref\1.dll
